@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/.vuepress/dist/docs',
+    base: '/.vuepress/dist',
     themeConfig: {
       nav: [
         { text: 'Home', link: '/' },
